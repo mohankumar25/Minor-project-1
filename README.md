@@ -1,1 +1,1 @@
-# Minor-project-1
+Neura face attend: An intelligent face recognition system 
